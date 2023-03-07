@@ -1,4 +1,8 @@
 # Sistema de contagem de microalgas
+Equipe: 
+- Francisco Emerson - https://github.com/iZezito
+- Wallace Gabriel - https://github.com/Wllc
+
 Disciplina: Processamento Digital de Imagens.
 
 Professora: Alessandra.

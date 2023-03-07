@@ -1,11 +1,11 @@
 # Sistema de contagem de microalgas
-Equipe: 
-- Francisco Emerson - https://github.com/iZezito
-- Wallace Gabriel - https://github.com/Wllc
-
 Disciplina: Processamento Digital de Imagens.
 
 Professora: Alessandra.
+
+Equipe: 
+- Francisco Emerson - https://github.com/iZezito
+- Wallace Gabriel - https://github.com/Wllc
 
 ### O que são microalgas?
 - As microalgas são algas unicelulares que crescem em água

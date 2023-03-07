@@ -1,5 +1,7 @@
-# Processamento Digital de Imagens
 # Sistema de contagem de microalgas
+Disciplina: Processamento Digital de Imagens.
+Professora: Alessandra.
+
 ### O que são microalgas?
 - As microalgas são algas unicelulares que crescem em água
 doce ou salgada, podem ser utilizadas na alimentação de
